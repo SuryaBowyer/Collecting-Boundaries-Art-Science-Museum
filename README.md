@@ -1,7 +1,6 @@
 <h1>Illustrations, Documents, Tools: <br>Collecting the Boundaries of Art in the Science Museum, London</h1> 
 
 <a href="https://doi.org/10.5281/zenodo.19567148"><img src="https://zenodo.org/badge/1024273744.svg" alt="DOI"></a> 
-[![DOI](https://zenodo.org/badge/1024273744.svg)](https://doi.org/10.5281/zenodo.19567148)
 
 <p>This repository includes the datasets for my PhD project, "Illustrations, Documents, Tools: Collecting the Boundaries of Art in the Science Museum, London". The Arts and Humanities Research Council funded this research as part of its Collaborative Doctoral Partnerships scheme, grant number AH/V004549/1. The project was hosted jointly by Science Museum Group and Birkbeck, University of London.</p>
 </p>The datasets are described briefly below. Each dataset also includes an "About" sheet which provides further information about how it was created and categorised.</p> 
