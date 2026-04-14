@@ -1,6 +1,6 @@
-<h1>Illustrations, Documents, Tools: <br>Collecting the Boundaries of Art in the Science Museum, London</h1> 
+<img width="361" height="24" alt="image" src="https://github.com/user-attachments/assets/f4f51b0d-e23e-4c9c-a637-61e859839bfc" /><h1>Illustrations, Documents, Tools: <br>Collecting the Boundaries of Art in the Science Museum, London</h1> 
 
-<p>This repository includes the datasets for my PhD project, "Illustrations, Documents, Tools: Collecting the Boundaries of Art in the Science Museum, London". The Arts and Humanities Research Council funded this research as part of its Collaborative Doctoral Partnerships scheme, grant number AH/V004549/1.</p>
+<p>This repository includes the datasets for my PhD project, "Illustrations, Documents, Tools: Collecting the Boundaries of Art in the Science Museum, London". The Arts and Humanities Research Council funded this research as part of its Collaborative Doctoral Partnerships scheme, grant number AH/V004549/1. The project was hosted jointly by Science Museum Group and Birkbeck, University of London.</p>
 </p>The datasets are described briefly below. Each dataset also includes an "About" sheet which provides further information about how it was created and categorised.</p> 
 
 <strong>Dataset: Science Museum Art Collection</strong> 
